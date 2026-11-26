@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PizzariaVI": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
