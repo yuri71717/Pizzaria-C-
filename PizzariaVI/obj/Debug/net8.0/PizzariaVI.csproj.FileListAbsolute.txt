@@ -1,0 +1,14 @@
+C:\Users\yuria\source\repos\PizzariaVI\PizzariaVI\bin\Debug\net8.0\PizzariaVI.exe
+C:\Users\yuria\source\repos\PizzariaVI\PizzariaVI\bin\Debug\net8.0\PizzariaVI.deps.json
+C:\Users\yuria\source\repos\PizzariaVI\PizzariaVI\bin\Debug\net8.0\PizzariaVI.runtimeconfig.json
+C:\Users\yuria\source\repos\PizzariaVI\PizzariaVI\bin\Debug\net8.0\PizzariaVI.dll
+C:\Users\yuria\source\repos\PizzariaVI\PizzariaVI\bin\Debug\net8.0\PizzariaVI.pdb
+C:\Users\yuria\source\repos\PizzariaVI\PizzariaVI\obj\Debug\net8.0\PizzariaVI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuria\source\repos\PizzariaVI\PizzariaVI\obj\Debug\net8.0\PizzariaVI.AssemblyInfoInputs.cache
+C:\Users\yuria\source\repos\PizzariaVI\PizzariaVI\obj\Debug\net8.0\PizzariaVI.AssemblyInfo.cs
+C:\Users\yuria\source\repos\PizzariaVI\PizzariaVI\obj\Debug\net8.0\PizzariaVI.csproj.CoreCompileInputs.cache
+C:\Users\yuria\source\repos\PizzariaVI\PizzariaVI\obj\Debug\net8.0\PizzariaVI.dll
+C:\Users\yuria\source\repos\PizzariaVI\PizzariaVI\obj\Debug\net8.0\refint\PizzariaVI.dll
+C:\Users\yuria\source\repos\PizzariaVI\PizzariaVI\obj\Debug\net8.0\PizzariaVI.pdb
+C:\Users\yuria\source\repos\PizzariaVI\PizzariaVI\obj\Debug\net8.0\PizzariaVI.genruntimeconfig.cache
+C:\Users\yuria\source\repos\PizzariaVI\PizzariaVI\obj\Debug\net8.0\ref\PizzariaVI.dll
